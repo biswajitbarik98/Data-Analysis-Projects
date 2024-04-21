@@ -1,0 +1,7 @@
+Bank Loan Analysis:
+
+KPIs like Total Loan Applications, Funded and Received Amount, Interest Rate, Debt-to-Income Ratio
+Good Loan vs. Bad Loan comparison
+Monthly Trends by Issue Date, Loan Purpose Breakdown
+Analysis of Home Ownership, Loan Term, Employee Length, and Regional Analysis by States
+Comprehensive Dashboard Creation
