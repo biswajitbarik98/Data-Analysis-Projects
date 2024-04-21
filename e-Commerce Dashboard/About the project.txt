@@ -1,0 +1,16 @@
+I have performed:
+
+⭐ #Datacleaning and #Transformation
+⭐ Analysed #KPIs using #SQL
+⭐ #Datavisualization
+⭐ #DAX calculations with various filters
+⭐ Dynamic dashboard and visual titles using parameters
+⭐ Page navigation and bookmarks
+
+I worked on this project to analyse the following things:
+ 
+🎯 Sales, profit, cost, and quantity by category, segment, city, and products
+🎯 Top 5 Products by all the parameters
+🎯 Segment and product/category need more attention to increase sales and profit.
+🎯 Used DAX to calculate YoY% of Growth of Sales, Profit, Cost, and Quantity
+🎯 Comparison between year-wise last month’s sales, profit, cost, and quantity
