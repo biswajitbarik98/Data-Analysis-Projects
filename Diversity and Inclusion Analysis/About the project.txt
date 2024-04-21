@@ -1,0 +1,7 @@
+Diversity and Inclusion (HR Dashboard):
+
+Analysis of Employee hirings, promotions in each FY
+Gender analysis for each job role
+Ratio of Male and Female working in the organization
+Performance ratings analysis and female and male employees left in each FY
+Employees’ age group in each job role
