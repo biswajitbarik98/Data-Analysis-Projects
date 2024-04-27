@@ -1,6 +1,13 @@
 Churn and Customer Risk Analysis:
 
-Area of focus on which service the customers need more support and a reduction in pricing
-Suggestions to increase sales of particular segments of customers through contract analysis
-Customers' preferred payment mode and demographic analysis
-Customer Account Information and Service Analysis
+➡ Identifying high-risk customers and service needs: Explored areas where customers require more support and potential pricing adjustments to mitigate churn risk.
+➡ Segment-Specific Sales Strategies: Proposed targeted sales approaches based on contract analysis to enhance sales among specific customer segments.
+➡ Payment Preferences and Demographic Insights: Analyze customers' preferred payment modes and demographic characteristics to tailor marketing strategies effectively.
+➡ Comprehensive Customer Account and Service Analysis: Conducted a thorough examination of customer account data to understand usage patterns and service requirements.
+
+In addition, I made use of tools and techniques in PowerBI and Excel:
+
+✔️ Data Transformation and Cleaning in Excel: Utilize Excel functions such as VLOOKUP, INDEX-MATCH, and advanced filtering to clean and transform raw data.
+✔️ PowerQuery for Data Integration: Leveraged PowerQuery to seamlessly integrate data from multiple sources and perform data cleaning and transformation tasks efficiently.
+✔️ DAX (Data Analysis Expressions) in PowerBI: Employed DAX formulas to perform complex calculations, create custom measures, and generate insights within PowerBI reports.
+✔️ Visualization with PowerBI: Utilized PowerBI's extensive visualization options to create insightful and visually appealing reports and dashboards for stakeholders.
