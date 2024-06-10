@@ -1,0 +1,110 @@
+Cyber Attack Analysis for a Multinational Organization:
+
+Overview:
+
+This project focuses on analyzing cyber attack patterns and trends within a multinational organization with offices across different countries. By leveraging multiple datasets,
+I need to provide insights into the nature of these attacks, their impact on various departments, and the vulnerabilities in different systems and devices.The goal is to enhance the organization's
+security posture, educate employees, and improve security device configurations.
+
+Tools and Technologies Used:
+
+1. Microsoft Excel
+   - Used for initial data preparation and cleaning.
+   - Employed various lookup functions and formulas to organize and preprocess the data.
+   - Performed preliminary analysis to identify trends and patterns.
+
+2. SQL Server
+   - Utilized for advanced data manipulation and storage.
+   - Worked with Common Table Expressions (CTEs) and various table JOINs to combine and query large datasets.
+   - Enhanced core SQL skills to derive meaningful insights from the data.
+   - Data was stored and queried in a relational database to ensure efficient handling of large volumes of data.
+
+3. Power BI
+   - Connected to SQL Server to load and visualize data.
+   - Extensively used for data visualization to create interactive dashboards and reports.
+   - Developed complex DAX measures for dynamic calculations across reports.
+   - Addressed issues such as ambiguous table relationships, joining different fact tables, and managing many-to-many relationships.
+
+Data Sources and Structure:
+
+1. System Attacks Dataset:
+   - Contains records of attacks on employee systems.
+   - Fields: Source and destination IPs, date and time of attack, source and destination ports, device status (registered/unregistered), protocols, packet flow information, traffic type, malware indicators,
+     anomaly scores, alerts, severity levels, attack type and signature, actions taken, device and browser information, operating systems, network segments, and log source devices.
+
+2. Device Attacks Dataset:
+   - Records attacks on employee mobile devices.
+   - Fields: Source and destination IPs, source and destination ports, protocol, device status, date and time of attacks, packet details (incoming and outgoing), FLAG counts, segment and header sizes,
+     attack labels (adware, scareware, SMS malware, benign).
+
+3. Dept. Info Dataset:
+   - Maps employee IP addresses to departments and countries.
+   - Provides insights into which departments and countries are affected by attacks.
+
+4. Office Country Dataset:
+   - Contains data on office locations, office codes by country, and the number of employees in each office.
+   - Helps in understanding the geographical distribution of attacks.
+
+Analysis Conducted:
+
+1. Attack Patterns and Trends
+   - Identified peak periods for cyber attacks by analyzing date and time data.
+   - Examined which country offices and departments experienced the highest frequency of attacks.
+   - Analyzed the most common protocols and ports targeted by attackers.
+
+2. Severity and Impact Assessment
+   - Categorized attacks based on severity to prioritize response efforts.
+   - Analyzed anomaly scores and alerts to gauge the impact of detected threats.
+
+3. Attack Types and Malware Indicators
+   - Identified common attack signatures and types, such as adware, scareware, and SMS malware.
+   - Examined malware indicators to understand the types of malicious software used.
+
+4. Employee and Device Vulnerability
+   - Differentiated between attacks on registered vs. unregistered devices.
+   - Identified which operating systems and browsers were most frequently targeted.
+
+5. Network and Segment Analysis
+   - Analyzed which network segments were most vulnerable.
+   - Identified primary sources of logs to understand where most attacks were detected.
+
+Key Findings:
+
+1. Correlation of Attacks
+   - System and device attacks are positively correlated, indicating simultaneous targeting.
+
+2. Unregistered Devices at Higher Risk
+   - Unregistered devices faced significantly more attacks than registered devices.
+
+3. Departmental Vulnerabilities
+   - The Engineering department experienced the highest number of system and device attacks.
+   - Windows OS was the most frequently targeted operating system.
+
+4. Attack Trends by Month
+   - March had the highest number of system attacks, while December had the lowest.
+
+5. Protocol and Attack Types
+   - Adware attacks in the TCP protocol were the most common.
+   - Forward and backward packet analysis showed significant divergence in adware attacks.
+
+6. Employee Impact
+   - Over half of the employees (59.75%) faced cyber attacks.
+   - A larger percentage of device attacks were on unregistered devices compared to system attacks.
+
+Recommendations:
+
+1. Enhance Security Protocols for Unregistered Devices
+   - Implement stricter security measures for unregistered devices, including mandatory registration and regular security updates, to reduce their vulnerability to attacks.
+
+2. Conduct Regular Security Training
+   - Provide ongoing security awareness training for employees, particularly in departments like Engineering that are most affected, to educate them on recognizing and mitigating cyber threats.
+
+3. Improve Monitoring and Defense Mechanisms
+   - Upgrade security device configurations to better detect and block attacks, focusing on commonly targeted protocols and operating systems.
+   - Ensure continuous monitoring of network segments and traffic.
+
+Conclusion:
+
+This project provides a comprehensive analysis of cyber attacks within a multinational organization, highlighting key vulnerabilities and areas for improvement.
+By leveraging tools like Microsoft Excel, SQL Server, and Power BI, we were able to derive meaningful insights and offer actionable recommendations to enhance the organization's security posture,
+educate employees, and improve security device configurations.
