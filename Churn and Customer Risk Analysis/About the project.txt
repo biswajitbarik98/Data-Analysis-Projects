@@ -1,5 +1,7 @@
 Churn and Customer Risk Analysis:
 
+Live Dashboard: https://lnkd.in/dBvKFs-4
+
 ➡ Identifying high-risk customers and service needs: Explored areas where customers require more support and potential pricing adjustments to mitigate churn risk.
 ➡ Segment-Specific Sales Strategies: Proposed targeted sales approaches based on contract analysis to enhance sales among specific customer segments.
 ➡ Payment Preferences and Demographic Insights: Analyze customers' preferred payment modes and demographic characteristics to tailor marketing strategies effectively.
