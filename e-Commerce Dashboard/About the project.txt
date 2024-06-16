@@ -1,6 +1,6 @@
 This project is based on a U.S e-Commerce dataset fetched from Kaggle. I added some more information to the dataset like calculation of costs, shipping prices as per the shipping mode, and some basic stuff.
 
-Live Dashboard: https://bit.ly/4cqFAsN
+Live Dashboard: https://lnkd.in/d7gQU-vS
 
 I have performed:
 
