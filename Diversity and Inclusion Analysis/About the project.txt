@@ -1,7 +1,37 @@
-Diversity and Inclusion (HR Dashboard):
+Diversity and Inclusion Analysis Project
 
-Analysis of Employee hirings, promotions in each FY
-Gender analysis for each job role
-Ratio of Male and Female working in the organization
-Performance ratings analysis and female and male employees left in each FY
-Employees’ age group in each job role
+Live Dashboard: https://lnkd.in/dvywbif2
+
+Project Description:
+In this project, I conducted a comprehensive analysis of gender diversity and inclusion within a bank, focusing on key metrics related to gender-based participation, hiring practices, promotions, and employee turnover. The objective was to identify areas of disparity and provide actionable insights to enhance inclusivity within the organization.
+
+Key Actions and Findings:
+
+Gender-Based Participation Analysis:
+* Evaluated the distribution of male and female employees across various job roles and positions.
+* Found that male employees significantly outnumbered female employees, with counts of 49.17 for males and 34.17 for females, indicating a gender disparity in overall employee numbers.
+
+Hiring Practices Evaluation:
+* Analyzed hiring ratios to determine gender balance in recruitment processes.
+* Identified a substantial imbalance, with males being hired at a higher rate than females.
+
+Promotion Trends Assessment:
+* Investigated gender-based promotion trends within the organization.
+* Discovered that females made up 20.09% of Junior Officers, a figure that may impact turnover rates and overall career progression.
+
+Employee Turnover Analysis:
+* Examined employee turnover rates by gender to understand retention patterns.
+* Highlighted potential issues in retaining female talent, as indicated by the lower average count of female employee IDs.
+
+Recommendations for Improvement:
+* Provided a set of recommended solutions aimed at improving gender inclusivity and reducing disparities.
+* Suggested strategies for more balanced recruitment, equitable promotion practices, and initiatives to enhance female retention.
+
+Technologies Used:
+MS Excel:
+* Utilized vlookups and other functions for data preparation and initial analysis.
+
+PowerBI:
+* Employed DAX for advanced calculations and metrics.
+* Used PowerQuery for data extraction, transformation, and loading (ETL).
+* Developed data models to visualize and analyze the data effectively.
