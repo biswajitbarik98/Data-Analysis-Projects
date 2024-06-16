@@ -1,11 +1,13 @@
 This project is based on a U.S e-Commerce dataset fetched from Kaggle. I added some more information to the dataset like calculation of costs, shipping prices as per the shipping mode, and some basic stuff.
 
+Live Dashboard: https://bit.ly/4cqFAsN
+
 I have performed:
 
-⭐ #Datacleaning and #Transformation in PowerQuery
-⭐ Analysed #KPIs using #SQL
-⭐ #Datavisualization
-⭐ #DAX calculations with various filters
+⭐ Datacleaning and #Transformation in PowerQuery
+⭐ Analysed KPIs using SQL
+⭐ Datavisualization
+⭐ DAX calculations with various filters
 ⭐ Dynamic dashboard and visual titles using parameters
 ⭐ Page navigation and bookmarks
 
