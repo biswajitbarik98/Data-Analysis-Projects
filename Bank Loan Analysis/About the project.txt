@@ -1,7 +1,28 @@
-Bank Loan Analysis:
+Project Description: Bank Loan Analysis
 
-KPIs like Total Loan Applications, Funded and Received Amount, Interest Rate, Debt-to-Income Ratio
-Good Loan vs. Bad Loan comparison
-Monthly Trends by Issue Date, Loan Purpose Breakdown
-Analysis of Home Ownership, Loan Term, Employee Length, and Regional Analysis by States
-Comprehensive Dashboard Creation
+Live Dashboard: https://lnkd.in/dqfA-iC3
+
+Objective: The primary objective of this project was to conduct a comprehensive analysis of the bank’s loan portfolio to optimize lending strategies, enhance risk management, and improve overall loan performance. This involved monitoring key performance indicators (KPIs), understanding borrower profiles, and identifying trends in loan applications, funded amounts, and repayments.
+
+Key Analyses Conducted:
+
+Comprehensive Loan Data Overview:
+* Created a PowerBI dashboard providing a detailed view of Funded Amount, Month-to-Date (MTD) metrics, and loan statuses to facilitate data-driven decision-making.
+
+SQL Analysis:
+* Conducted in-depth analysis of critical metrics using SQL queries. Key metrics analyzed included Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average Debt-to-Income Ratio (DTI).
+
+Advanced Data Calculations:
+* Performed complex calculations using DAX measures and SQL queries for MTD and Year-over-Year (YoY) analysis. Identified loan performance trends, such as 86.18% good loans versus 13.82% bad loans.
+
+Insightful Findings:
+* Revealed borrower preferences, including a 73.20% preference for 36-month loans.
+* Determined that employees with 10+ years of tenure had the highest loan application rate at 22.99%.
+* Conducted loan repayment pattern analysis, aiding in risk management and strategic planning.
+
+Tools and Technologies Used:
+* Excel: Used for initial data organization and structuring.
+* SQL Server: Utilized for executing SQL queries to perform in-depth analysis and fetch data for visualization.
+* Power Query: Applied for data transformation and cleaning.
+* Power BI: Leveraged for creating interactive and dynamic dashboards, utilizing advanced features such as bookmarks, selections, and parameters to enhance visualization and user experience.
+* DAX (Data Analysis Expressions): Used for performing complex data calculations and measures within Power BI.
